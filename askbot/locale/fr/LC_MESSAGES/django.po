@@ -4014,7 +4014,7 @@ msgstr "Réponse ayant obtenu %(num)s votes positifs"
 
 #: models/badges.py:316
 msgid "Good Answer"
-msgstr "Bonné réponse"
+msgstr "Bonne réponse"
 
 #: models/badges.py:328
 msgid "Great Answer"
@@ -4611,7 +4611,7 @@ msgstr "Niveaux de badges"
 
 #: templates/badges.html:33
 msgid "gold badge: the highest honor and is very rare"
-msgstr "badge en or: le plus haute distinction et est très rare"
+msgstr "badge en or: le plus haute distinction, est très rare"
 
 #: templates/badges.html:36
 msgid ""
@@ -4622,11 +4622,11 @@ msgstr "Le badge d'or est la plus haute distinction dans cette communauté. Pour
 #: templates/badges.html:42 templates/badges.html.py:46
 msgid ""
 "silver badge: occasionally awarded for the very high quality contributions"
-msgstr "badge en argent: occasionnellement donné pour des contributions de très hautes qualités"
+msgstr "badge en argent: occasionnellement donné pour des contributions de très haute qualité"
 
 #: templates/badges.html:49 templates/badges.html.py:53
 msgid "bronze badge: often given as a special honor"
-msgstr "badge de bronze : souvent donnée en tant qu'honneur spécial"
+msgstr "badge de bronze : souvent donné à titre honorifique"
 
 #: templates/base.html:23
 #, python-format
