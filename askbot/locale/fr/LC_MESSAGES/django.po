@@ -144,7 +144,7 @@ msgstr "Au moins un des étiquettes suivantes est requise: %(tags)s"
 
 #: forms.py:475
 msgid "community wiki (karma is not awarded & many others can edit wiki post)"
-msgstr "wiki communautaire (le karma n'est pas mis à jour & peu de personnes peuvent éditer la question"
+msgstr "wiki communautaire (l’aura n'est pas mise à jour et peu de personnes peuvent éditer la question)"
 
 #: forms.py:479
 msgid ""
