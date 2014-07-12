@@ -460,7 +460,7 @@ msgstr "Il semblerait qu’il y ait quelque chose à corriger…"
 
 #: media/js/user.js:443
 msgid "Please provide description."
-msgstr "Veuillez fournir une description"
+msgstr "Veuillez fournir une description."
 
 #: media/js/user.js:446
 msgid "Please provide details."
