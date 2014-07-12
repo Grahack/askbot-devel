@@ -456,7 +456,7 @@ msgstr "ajouter un nouvelle raison de rejet"
 
 #: media/js/user.js:375
 msgid "Looks there are some things to fix:"
-msgstr "Regarder il y'a quelques choses à corriger"
+msgstr "Il semblerait qu’il y ait quelque chose à corriger…"
 
 #: media/js/user.js:443
 msgid "Please provide description."
