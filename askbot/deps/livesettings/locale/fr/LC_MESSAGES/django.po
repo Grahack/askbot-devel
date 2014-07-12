@@ -95,7 +95,7 @@ msgstr "Vous n'avez pas le droit d'éditer les valeurs."
 #: templates/livesettings/site_settings.html.py:26
 #: templates/livesettings/site_settings.html.py:26
 msgid "Edit Site Settings"
-msgstr "Editer les paramètres du site"
+msgstr "Éditer les paramètres du site"
 
 #: templates/livesettings/site_settings.html.py:59
 #: templates/livesettings/site_settings.html.py:58

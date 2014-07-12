@@ -4661,23 +4661,23 @@ msgstr "Quel genre de questions puis-je poser ici ?"
 msgid ""
 "Most importantly - questions should be <strong>relevant</strong> to this "
 "community."
-msgstr ""
+msgstr "Le plus important est que les questions aient <strong>un rapport avec la communauté</strong>."
 
 #: templates/faq_static.html:8
 msgid ""
 "Before you ask - please make sure to search for a similar question. You can "
 "search questions by their title or tags."
-msgstr "Avant de demander - s'il vous plaît assurez-vous de rechercher une question similaire. Vous pouvez rechercher des questions par leur titre ou étiquettes."
+msgstr "Avant de poser une question, s'il vous plaît assurez-vous qu’il n’existe pas une question similaire. Vous pouvez rechercher des questions par leur titre ou par mot-clef."
 
 #: templates/faq_static.html:10
 msgid "What kinds of questions should be avoided?"
-msgstr "Quel genre de questions devraient être évités?"
+msgstr "Quel genre de questions devraient être évité ?"
 
 #: templates/faq_static.html:11
 msgid ""
 "Please avoid asking questions that are not relevant to this community, too "
 "subjective and argumentative."
-msgstr "Evitez de poser des questions qui ne sont pas pertinentes pour cette communauté, ou quisont trop subjectives ou polémiques. "
+msgstr "Evitez de poser des questions qui ne sont pas pertinentes pour cette communauté, ou qui sont trop subjectives ou polémiques. "
 
 #: templates/faq_static.html:13
 msgid "What should I avoid in my answers?"
@@ -4820,7 +4820,7 @@ msgid ""
 "So questions and answers can be edited like wiki pages by experienced users "
 "of this site and this improves the overall quality of the knowledge base "
 "content."
-msgstr "Les questions et les réponses peuvent être modifiées (sur le principe d'un wiki) par les utilisateurs habitués du site, ce qui améliore la qualité globale de la base de connaissances  qui est peu à peu constituée par notre communauté."
+msgstr "Les questions et les réponses peuvent être modifiées (sur le principe d'un wiki) par les utilisateurs habitués du site, ce qui améliore la qualité globale de la base de connaissances qui est peu à peu constituée par notre communauté."
 
 #: templates/faq_static.html:79
 msgid "If this approach is not for you, we respect your choice."
@@ -5685,7 +5685,7 @@ msgstr "Nouveau mot de passe"
 #: templates/authopenid/signin.html:135
 #: templates/authopenid/widget_signin.html:138
 msgid "Please, retype"
-msgstr "Veuillez le resaisir"
+msgstr "Veuillez le ressaisir"
 
 #: templates/authopenid/signin.html:145
 #: templates/authopenid/widget_signin.html:148
@@ -7369,7 +7369,7 @@ msgstr "ajouter un logo"
 
 #: templates/widgets/group_info.html:46
 msgid "moderate emailed questions"
-msgstr "modéré les questions par email"
+msgstr "modérer les questions par email"
 
 #: templates/widgets/group_info.html:58
 msgid "show only selected answers to enquirers"
@@ -7713,15 +7713,15 @@ msgstr "le mot de passe est obligatoire"
 
 #: utils/forms.py:268
 msgid "Password <i>(please retype)</i>"
-msgstr "Mot de passe <i>(veuillez resaisir)</i>"
+msgstr "Mot de passe <i>(veuillez ressaisir)</i>"
 
 #: utils/forms.py:269
 msgid "please, retype your password"
-msgstr "Merci de resaisir votre mot de passe"
+msgstr "Merci de ressaisir votre mot de passe"
 
 #: utils/forms.py:270
 msgid "sorry, entered passwords did not match, please try again"
-msgstr "désolé, les 2 mots de passe sont différents, veuillez recommencer"
+msgstr "désolé, les deux mots de passe sont différents, veuillez recommencer"
 
 #: utils/functions.py:102
 msgid "2 days ago"
