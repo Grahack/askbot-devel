@@ -106,7 +106,7 @@ msgstr "message envoyé"
 msgid "user {{str}} does not exist"
 msgid_plural "users {{str}} do not exist"
 msgstr[0] "l'utilisateur {{str}} n'existe pas"
-msgstr[1] "les utilisateurs {{str}} n'existe pas"
+msgstr[1] "les utilisateurs {{str}} n'existent pas"
 
 #: media/js/group_messaging.js:278
 msgid "cannot send message to yourself"
@@ -468,11 +468,11 @@ msgstr "Veuillez fournir des détails."
 
 #: media/js/user.js:560
 msgid "A reason must be selected to delete one."
-msgstr "une raison doit être choisi pour en supprimer une."
+msgstr "Une raison doit être choisie pour en supprimer une."
 
 #: media/js/user.js:659
 msgid "A reason must be selected to reject post."
-msgstr "Une raison doit être choisi pour sélectionner un publication à rejeter."
+msgstr "Une raison doit être choisie pour sélectionner un publication à rejeter."
 
 #: media/js/user.js:708
 msgid "Please <a href=\"%(signin_url)s\">signin</a> to follow %(username)s"
