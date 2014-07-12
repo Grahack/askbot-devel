@@ -7577,15 +7577,15 @@ msgstr "accès en lecture seule"
 
 #: templates/widgets/user_long_score_and_badge_summary.html:10
 msgid "karma:"
-msgstr "aura :"
+msgstr "Aura :"
 
 #: templates/widgets/user_long_score_and_badge_summary.html:15
 msgid "badges:"
-msgstr "badges :"
+msgstr "Badges :"
 
 #: templates/widgets/user_navigation.html:17
 msgid "sign out"
-msgstr "déconnexion"
+msgstr "Déconnexion"
 
 #: templates/widgets/user_navigation.html:20
 msgid "Hi there! Please sign in"
@@ -7593,11 +7593,11 @@ msgstr "Bonjour ! Connectez-vous !"
 
 #: templates/widgets/user_navigation.html:23
 msgid "settings"
-msgstr "réglages"
+msgstr "Réglages"
 
 #: templates/widgets/user_navigation.html:24
 msgid "widgets"
-msgstr "composants"
+msgstr "Composants"
 
 #: templates/widgets/user_perms.html:1
 #, python-format
