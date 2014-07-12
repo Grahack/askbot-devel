@@ -457,7 +457,7 @@ msgstr "users/update_has_custom_avatar/"
 
 #: urls.py:115 urls.py:120
 msgid "badges/"
-msgstr "Badges/"
+msgstr "badges/"
 
 #: urls.py:133
 msgid "feedback/"
