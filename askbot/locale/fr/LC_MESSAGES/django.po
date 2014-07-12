@@ -2844,20 +2844,20 @@ msgstr "[privee]"
 
 #: const/__init__.py:320
 msgid "show all tags"
-msgstr "montrer toutes les étiquettes"
+msgstr "concernant tous les mots-clef"
 
 #: const/__init__.py:321 const/__init__.py:330 const/__init__.py:336
 #: const/__init__.py:342
 msgid "exclude ignored tags"
-msgstr ""
+msgstr "en cachant les mots-clef ignorés"
 
 #: const/__init__.py:322 const/__init__.py:331 const/__init__.py:343
 msgid "only interesting tags"
-msgstr "seulement les étiquettes interessantes"
+msgstr "concernant seulement les mots-clef intéressants"
 
 #: const/__init__.py:326 const/__init__.py:337 const/__init__.py:344
 msgid "only subscribed tags"
-msgstr "étiquettes souscrites seulement"
+msgstr "mots-clef auxquels je suis abonné seulement"
 
 #: const/__init__.py:329 const/__init__.py:335 const/__init__.py:341
 msgid "email for all tags"
@@ -7544,7 +7544,7 @@ msgstr ""
 
 #: templates/widgets/tag_selector.html:59
 msgid "Show only questions from"
-msgstr "Ne montrer que les questions de"
+msgstr "Afficher les questions "
 
 #: templates/widgets/tag_selector.html:70
 msgid "Send me email alerts for"
