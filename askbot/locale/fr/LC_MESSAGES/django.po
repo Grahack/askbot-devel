@@ -4651,7 +4651,7 @@ msgstr "OK pour clore"
 
 #: templates/faq_static.html:5
 msgid "Frequently Asked Questions "
-msgstr "Questions fréquemment posées"
+msgstr "Questions fréquemment posées "
 
 #: templates/faq_static.html:6
 msgid "What kinds of questions can I ask here?"
