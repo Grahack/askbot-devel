@@ -6318,7 +6318,7 @@ msgid "There are no unanswered questions here"
 msgstr "Il n'y a aucune question en suspens ici"
 
 #: templates/main_page/nothing_found.html:7
-msgid "No questions here. "
+msgid "No questions here."
 msgstr "Pas de question ici. "
 
 #: templates/main_page/nothing_found.html:8
