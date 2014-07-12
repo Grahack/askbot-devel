@@ -3905,7 +3905,7 @@ msgstr "%(user)s a publié %(post_link)s"
 #: models/__init__.py:3167
 #, python-format
 msgid "%(user)s edited an %(post_link)s."
-msgstr ""
+msgstr "%(user)s a édité %(post_link)s"
 
 #: models/__init__.py:3169
 #, python-format
@@ -5899,14 +5899,14 @@ msgstr ""
 msgid ""
 "To change frequency, language and content of these alerts, please visit <a "
 "href=\"%(url)s\">your user profile</a>."
-msgstr ""
+msgstr "Pour changer la fréquence, la langue et le contenu de ces alertes, visiter <a href=\"%(url)s\">votre profil</a>."
 
 #: templates/email/change_settings_info.html:6
 #, python-format
 msgid ""
 "To change freqency and content of these alerts, please visit <a "
 "href=\"%(url)s\">your user profile</a>."
-msgstr ""
+msgstr "Pour changer la fréquence et le contenu de ces alertes, visiter <a href=\"%(url)s\">votre profil</a>."
 
 #: templates/email/change_settings_info.html:10
 #, python-format
@@ -5914,7 +5914,7 @@ msgid ""
 "If you believe that this message was sent in an error, please email about it"
 " the forum administrator at <a "
 "href=\"mailto:%(admin_email)s\">%(admin_email)s</a>."
-msgstr ""
+msgstr "Si vous pensez que ce message a été envoyé par erreur, merci d’envoyer un email à l’administrateur du site à <a href=\"mailto:%(admin_email)s\">%(admin_email)s</a>."
 
 #: templates/email/delayed_email_alert.html:2
 #, python-format
@@ -6521,7 +6521,7 @@ msgstr "Éditer votre précédente réponse"
 
 #: templates/question/content.html:34
 msgid "(only one answer per user is allowed)"
-msgstr ""
+msgstr "(une seule réponse par utilisateur est autorisée)"
 
 #: templates/question/new_answer_form.html:12
 msgid "Login/Signup to Answer"
