@@ -3992,7 +3992,7 @@ msgstr "Devoir civique"
 #: models/badges.py:238
 #, python-format
 msgid "Voted %(num)s times"
-msgstr "a voté %(num)s fois"
+msgstr "A voté %(num)s fois"
 
 #: models/badges.py:252
 #, python-format
