@@ -4940,7 +4940,7 @@ msgstr "Comment les questions, réponses et commentaires fonctionnent"
 msgid ""
 "This site is for asking and answering questions, not for open-ended "
 "discussions."
-msgstr "Ce site est pour poser et répondre à des questions, par pour des discussions sans fin."
+msgstr "Le but ici est de poser ou répondre à des questions, pas de discuter sans fin."
 
 #: templates/help.html:19
 msgid ""
