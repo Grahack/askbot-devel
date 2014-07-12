@@ -4795,7 +4795,7 @@ msgstr "<p>L'image qui apparaît dans les profils utilisateurs est appelée <str
 
 #: templates/faq_static.html:73
 msgid "To register, do I need to create new password?"
-msgstr "Ais-je besoin de créer un nouveau mot de passe pour m'inscrire ?"
+msgstr "Ai-je besoin de créer un nouveau mot de passe pour m'inscrire ?"
 
 #: templates/faq_static.html:74
 msgid ""
