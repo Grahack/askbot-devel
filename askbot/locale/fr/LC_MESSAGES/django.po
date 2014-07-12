@@ -291,7 +291,7 @@ msgstr "La ligne du sujet doit respecter le format : [tag1, tag2, tag3,...] titr
 msgid ""
 "You have asked this question anonymously, if you decide to reveal your "
 "identity, please check this box."
-msgstr "Si vous avez poster cette question de façon anonyme, si vous décidez de révéler votre identité, veuiller cocher cette case."
+msgstr "Vous avez posté cette question de façon anonyme. Si vous décidez de révéler votre identité, veuillez cocher cette case."
 
 #: forms.py:1217
 msgid "reveal identity"
@@ -6389,7 +6389,7 @@ msgstr[1] "chaque étiquette doit contenir min de %(max_chars)s caractères"
 #, python-format
 msgid "please use %(tag_count)s tag"
 msgid_plural "please use %(tag_count)s tags or less"
-msgstr[0] "veuillez utiliser %(tag_count)s étiquette ou moins"
+msgstr[0] "veuillez utiliser %(tag_count)s étiquette"
 msgstr[1] "veuillez utiliser %(tag_count)s étiquettes ou moins"
 
 #: templates/meta/editor_data.html:8
@@ -7333,7 +7333,7 @@ msgstr "Le contenu de ce site est sous licence %(license)s"
 
 #: templates/widgets/footer.html:38
 msgid "about"
-msgstr "Qui sommes nous ?"
+msgstr "À propos"
 
 #: templates/widgets/footer.html:40 templates/widgets/user_navigation.html:26
 msgid "help"
@@ -7868,7 +7868,7 @@ msgstr "Merci pour vos remarques !"
 
 #: views/meta.py:131
 msgid "We look forward to hearing your feedback! Please, give it next time :)"
-msgstr "Nous aimerions bien savoir ce que vous pensez de notre service de questions/réponses ! Lors de votre prochaine visite, n'hésitez pas à nous envoyer vos remarques, critiques et suggestions ;o)"
+msgstr "Votre avis nous intéresse ! Lors de votre prochaine visite, n'hésitez pas à le donner !"
 
 #: views/meta.py:135
 msgid "Privacy policy"
