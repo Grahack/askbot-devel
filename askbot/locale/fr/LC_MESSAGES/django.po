@@ -301,7 +301,7 @@ msgstr "Révéler son identité"
 msgid ""
 "Sorry, only owner of the anonymous question can reveal his or her identity, "
 "please uncheck the box"
-msgstr "Désolé, seul les propriétaires des questions anonymes peuvent révélés leurs identités, veuillez décocher cette case"
+msgstr "Désolé, seuls les propriétaires des questions anonymes peuvent révéler leur identité, veuillez décocher cette case."
 
 #: forms.py:1309
 msgid ""
