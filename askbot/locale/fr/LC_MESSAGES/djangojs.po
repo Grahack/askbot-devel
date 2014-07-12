@@ -440,7 +440,7 @@ msgstr "votre publication a été supprimée"
 
 #: media/js/user.js:225
 msgid "Post approved"
-msgstr "votre publication a été restaurée"
+msgstr "Votre publication a été validée"
 
 #: media/js/user.js:246
 msgid "Accept"
