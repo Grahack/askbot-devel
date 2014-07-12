@@ -4801,7 +4801,7 @@ msgstr "Ai-je besoin de créer un nouveau mot de passe pour m'inscrire ?"
 msgid ""
 "No, you don't have to. You can login through any service that supports "
 "OpenID, e.g. Google, Yahoo, AOL, etc."
-msgstr ""
+msgstr "Non, ce n’est pas obligatoire. Vous pouvez vous connecter au travers d’un service qui supporte OpenId, comme Google, Yahoo, AOL, etc."
 
 #: templates/faq_static.html:75
 msgid "\"Login now!\""
@@ -4835,7 +4835,7 @@ msgstr "D'autres questions ?"
 msgid ""
 "Please <a href='%(ask_question_url)s'>ask</a> your question, help make our "
 "community better!"
-msgstr ""
+msgstr "Merci de <a href='%(ask_question_url)s'>poser vos questions</a> ! Aidez-nous à améliorer notre communauté !"
 
 #: templates/feedback.html:3
 msgid "Feedback"
@@ -7381,7 +7381,7 @@ msgstr "Comment les utilisateurs rejoignent ce groupe?"
 
 #: templates/widgets/group_info.html:87
 msgid "Can moderate site"
-msgstr ""
+msgstr "Peut modérer le site"
 
 #: templates/widgets/group_info.html:97
 msgid "Allow only read access"
@@ -7589,7 +7589,7 @@ msgstr "déconnexion"
 
 #: templates/widgets/user_navigation.html:20
 msgid "Hi there! Please sign in"
-msgstr ""
+msgstr "Bonjour ! Connectez-vous !"
 
 #: templates/widgets/user_navigation.html:23
 msgid "settings"
