@@ -69,7 +69,7 @@
 {% trans %}<p>The picture that appears on the users profiles is called <strong>gravatar</strong> (which means <strong>g</strong>lobally <strong>r</strong>ecognized <strong>avatar</strong>).</p><p>Here is how it works: a <strong>cryptographic key</strong> (unbreakable code) is calculated from your email address. You upload your picture (or your favorite alter ego image) the website <a href='http://gravatar.com'><strong>gravatar.com</strong></a> from where we later retreive your image using the key.</p><p>This way all the websites you trust can show your image next to your posts and your email address remains private.</p><p>Please <strong>personalize your account</strong> with an image - just register at <a href='http://gravatar.com'><strong>gravatar.com</strong></a> (just please be sure to use the same email address that you used to register with us). Default image that looks like a kitchen tile is generated automatically.</p>{% endtrans %}
 <h2>{% trans %}To register, do I need to create new password?{% endtrans %}</h2>
 <p>{% trans %}No, you don't have to. You can login through any service that supports OpenID, e.g. Google, Yahoo, AOL, etc.{% endtrans %}
-<strong><a href="{{ settings.LOGIN_URL }}">{% trans %}"Login now!"{% endtrans %}</a> »</strong> 
+<strong><a href="{{ settings.LOGIN_URL }}">{% trans %}"Login now!"{% endtrans %}</a></strong> 
 </p>
 <h2>{% trans %}Why other people can edit my questions/answers?{% endtrans %}</h2>
 <p> {% trans %}Goal of this site is...{% endtrans %} {% trans %}So questions and answers can be edited like wiki pages by experienced users of this site and this improves the overall quality of the knowledge base content.{% endtrans %}
