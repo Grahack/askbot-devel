@@ -2112,7 +2112,7 @@ msgstr "Si laissé vide, un formulaire de retour simple sera utilisé à la plac
 
 #: conf/skin_general_settings.py:15
 msgid "Skin, logos and HTML <head> parts"
-msgstr ""
+msgstr "Thème, logos et HTML personnalisé"
 
 #: conf/skin_general_settings.py:23
 msgid "Q&A site logo"
@@ -6075,7 +6075,7 @@ msgstr "Bien sûr, vous pouvez toujours visiter %(site_name)s à l'adresse <a hr
 msgid ""
 "Please visit %(site_name)s at <a href=\"%(site_url)s\">%(site_url)s</a>, we "
 "look forward to your posts."
-msgstr ""
+msgstr "Veuillez visiter %(site_name)s à l'adresse <a href="%(site_url)s">%(site_url)s</a>, nous attendons avec impatience vos questions et vos réponses !"
 
 #: templates/email/rejected_post.html:2 templates/email/rejected_post.html:3
 msgid " Your post was rejected. "
