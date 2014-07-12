@@ -53,3 +53,4 @@ recaptcha
 /db.sq3
 *.DS_Store
 htmlcov
+*.mo
