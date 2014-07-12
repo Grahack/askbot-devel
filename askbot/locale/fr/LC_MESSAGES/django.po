@@ -2294,11 +2294,11 @@ msgstr "Mode pied du site"
 msgid ""
 "Footer is the bottom portion of the content, which is common to all pages. "
 "You can disable, customize, or use the default footer."
-msgstr "le pied est la partie basse du contenu, qui sera commune à toutes les pages, vous pouvez la désactiver, la personnaliser, ou utiliser le pied par défaut."
+msgstr "Le pied de page est la partie basse du contenu, qui sera commune à toutes les pages, vous pouvez la désactiver, la personnaliser, ou utiliser le pied de page par défaut."
 
 #: conf/skin_general_settings.py:217
 msgid "Custom footer (HTML format)"
-msgstr "Personnalisé le pied (format HTML)"
+msgstr "Personnalisation du pied de page (format HTML)"
 
 #: conf/skin_general_settings.py:219
 msgid ""
