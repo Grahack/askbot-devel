@@ -274,7 +274,7 @@ msgid "Email is required if user name is added"
 msgstr "Le mail est requis si le nom d'utilisateur est ajouté"
 
 #: forms.py:914 forms.py:957
-msgid "ask anonymously"
+msgid "post anonymously"
 msgstr "être anonyme"
 
 #: forms.py:916 forms.py:959
