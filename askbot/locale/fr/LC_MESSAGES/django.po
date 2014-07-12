@@ -400,7 +400,7 @@ msgstr "Descriptif"
 #: templates/widgets/edit_post.html:26 templates/widgets/related_tags.html:3
 #: templates/widgets/tag_category_selector.html:2
 msgid "Tags"
-msgstr "Étiquettes"
+msgstr "Mots-clés"
 
 #: tasks.py:98
 msgid "An edit for my answer"
@@ -1209,7 +1209,7 @@ msgstr "Sélectionner le format pour montrer les étiquettes, comme une simple l
 
 #: conf/forum_data_rules.py:301
 msgid "Use wildcard tags"
-msgstr "Étiquettes"
+msgstr "Utiliser des mots-clés génériques"
 
 #: conf/forum_data_rules.py:303
 msgid ""
@@ -2688,7 +2688,7 @@ msgstr "suivi"
 
 #: const/__init__.py:129
 msgid "list"
-msgstr "Étiquettes"
+msgstr "Mots-clés"
 
 #: const/__init__.py:130
 msgid "cloud"
@@ -5981,7 +5981,7 @@ msgstr "Demandé par %(author)s:"
 
 #: templates/email/macros.html:40
 msgid "Tags:"
-msgstr "Étiquettes:"
+msgstr "Mots-clés:"
 
 #: templates/email/macros.html:48
 #, python-format
@@ -7876,7 +7876,7 @@ msgstr "Politique en matière de respect de la vie privée"
 
 #: views/meta.py:216
 msgid "Suggested tags"
-msgstr "Étiquettes suggérés"
+msgstr "Mots-clés suggérés"
 
 #: views/readers.py:256
 #, python-format
