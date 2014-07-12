@@ -4978,25 +4978,25 @@ msgstr "pour rechercher par mots-clef - saisir [tag: mot-clef] ou #mot-clef"
 
 #: templates/help.html:33
 msgid "to search by user - enter [user: somename] or @somename or @\"some name\""
-msgstr ""
+msgstr "pour rechercher par utilisateur - saisir [user: pseudo] ou @pseudo ou encore @\"le pseudo\""
 
 #: templates/help.html:35
 msgid ""
 "In addition, it is possible to click on tags to add them to the search "
 "query."
-msgstr ""
+msgstr "En outre, il est possible de cliquer sur les mots-clés pour les ajouter à la recherche."
 
 #: templates/help.html:37
 msgid ""
 "Finally, a separate tag search box is available in the side bar of the main "
 "page, where the search tags can be entered as well"
-msgstr ""
+msgstr "Enfin, une boîte de recherche par mot-clé est disponible dans la barre latérale de la page d'accueil, où les mots-clés de recherche peuvent aussi être saisies."
 
 #: templates/help.html:40
 msgid ""
 "<em>Important!!!</em> All search terms are combined with a logical \"AND\" "
 "expression - to narrow the search by adding new terms."
-msgstr ""
+msgstr "<em>Important !</em> Tous les termes de recherche sont combinés avec un \"ET\" logique. Pour affiner la recherche, ajoutez de nouveaux termes."
 
 #: templates/help.html:42
 msgid "Voting"
