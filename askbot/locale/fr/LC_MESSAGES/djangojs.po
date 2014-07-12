@@ -127,8 +127,8 @@ msgstr "Poser votre question"
 #: media/js/live_search.js:299
 msgid "Sorry, this tag does not exist"
 msgid_plural "Sorry, these tags do not exist"
-msgstr[0] "Désolé, cette étiquette n'existe pas"
-msgstr[1] "Désolé, ces étiquettes n'existe pas"
+msgstr[0] "Désolé, ce mot-clé n'existe pas"
+msgstr[1] "Désolé, ces mots-clés n'existent pas"
 
 #: media/js/live_search.js:313
 msgid "search or ask your question"
@@ -354,14 +354,14 @@ msgstr "ajouter un logo"
 #: media/js/post.js:3444
 #, c-format
 msgid "tag \"%s\" was already added, no need to repeat (press \"escape\" to delete)"
-msgstr "l'étiquette \"%s\" a déjà été ajoutée, pas besoin de répéter l'oppération (appuyer sur \"echap\" pour supprimer)"
+msgstr "le mot-clé \"%s\" a déjà été ajouté, pas besoin de répéter l'opération (appuyer sur \"echap\" pour supprimer)"
 
 #: media/js/post.js:3453
 #, c-format
 msgid "a maximum of %s tag is allowed"
 msgid_plural "a maximum of %s tags are allowed"
-msgstr[0] "un maximum de %s étiquette est autorisé"
-msgstr[1] "un maximum de %s étiquettes est autorisé"
+msgstr[0] "un maximum de %s mot-clé est autorisé"
+msgstr[1] "un maximum de %s mots-clés est autorisé"
 
 #: media/js/post.js:3799
 msgid "Delete category?"
@@ -373,7 +373,7 @@ msgstr "modifier"
 
 #: media/js/post.js:3975
 msgid "category name cannot be empty"
-msgstr "veuillez saisir au moins une étiquette"
+msgstr "veuillez saisir au moins un mot-clé"
 
 #: media/js/post.js:4011
 msgid "already exists at the current level!"
@@ -385,7 +385,7 @@ msgstr "ajouter une catégorie"
 
 #: media/js/post.js:4594
 msgid "save tags"
-msgstr "sauvegarder les étiquettes"
+msgstr "sauvegarder les mots-clés"
 
 #: media/js/post.js:4689 media/js/post.js.c:4723
 msgid "User name:"
@@ -397,15 +397,15 @@ msgstr "Nom du groupe:"
 
 #: media/js/post.js:4736
 msgid "Shared with the following users:"
-msgstr "Partager avec les utilisateurs partisants"
+msgstr "Partagé avec les utilisateurs suivants :"
 
 #: media/js/post.js:4742
 msgid "Shared with the following groups:"
-msgstr "Partager avec le groupe partisant:"
+msgstr "Partagé avec le groupe suivant :"
 
 #: media/js/tag_selector.js:14
 msgid "Tag \"<span></span>\" matches:"
-msgstr "L'étiquette \"<span></span>\" doit correspondre:"
+msgstr "Le mot-clé \"<span></span>\" doit correspondre:"
 
 #: media/js/tag_selector.js:84
 #, c-format
