@@ -3256,7 +3256,7 @@ msgstr "Votre nouveau mot de passe a été sauvegarder"
 msgid ""
 "Unfortunately, there was some problem when connecting to %(provider)s, "
 "please try again or use another provider"
-msgstr "Malheureusement, il y'a quelque problème lors de la connexion à %(provider)s, veuillez réessayer plus tard ou utiliser un autre fournisseur"
+msgstr "Malheureusement, il y a quelque problème lors de la connexion à %(provider)s, veuillez réessayer plus tard ou utiliser un autre fournisseur"
 
 #: deps/django_authopenid/views.py:613
 msgid "The login password combination was not correct"
@@ -5581,7 +5581,7 @@ msgstr "Déconnexion"
 
 #: templates/authopenid/logout.html:5
 msgid "You have successfully logged out"
-msgstr "Vous êtes déconnecter avec succès"
+msgstr "Vous avez bien été déconnecté."
 
 #: templates/authopenid/logout.html:7
 msgid ""
@@ -6079,7 +6079,7 @@ msgstr "Veuillez visiter %(site_name)s à l'adresse <a href="%(site_url)s">%(sit
 
 #: templates/email/rejected_post.html:2 templates/email/rejected_post.html:3
 msgid " Your post was rejected. "
-msgstr "Votre publication à été rejetée"
+msgstr "Votre publication a été rejetée"
 
 #: templates/email/rejected_post.html:5
 msgid "Your post (copied in the end), was rejected for the following reason:"
@@ -7032,7 +7032,7 @@ msgstr "Lieu"
 
 #: templates/user_profile/user_info.html:108
 msgid "age"
-msgstr "Age"
+msgstr "Âge"
 
 #: templates/user_profile/user_info.html:109
 #, python-format
