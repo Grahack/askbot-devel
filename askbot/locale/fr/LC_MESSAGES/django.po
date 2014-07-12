@@ -688,7 +688,7 @@ msgstr "Question favorite: nombre de votes minimum"
 
 #: conf/badges.py:203
 msgid "Stellar Question: minimum stars"
-msgstr "Excellente Question: nombre minimum d'étoiles"
+msgstr "Question stellaire: nombre minimum d'étoiles"
 
 #: conf/badges.py:212
 msgid "Commentator: minimum comments"
