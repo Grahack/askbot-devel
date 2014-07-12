@@ -4962,7 +4962,7 @@ msgstr "Veuillez rechercher avant de poser votre questions"
 msgid ""
 "Type your question in the search bar and see whether a similar question has "
 "been asked before"
-msgstr ""
+msgstr "Tapez votre question dans la barre de recherche pour voir si une question similaire a déjà été posée."
 
 #: templates/help.html:29
 msgid "Search has advanced capabilities:"
