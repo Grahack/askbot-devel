@@ -4716,10 +4716,10 @@ msgstr "Comment fonctionne le système d'aura ?"
 #: templates/faq_static.html:21
 msgid ""
 "When a question or answer is upvoted, the user who posted them will gain "
-"some points, which are called \\\"karma points\\\". These points serve as a "
+"some points, which are called \"karma points\". These points serve as a "
 "rough measure of the community trust to him/her. Various moderation tasks "
 "are gradually assigned to the users based on those points."
-msgstr "Quand une question ou une réponse reçoit un vote positif, son auteur acquiert des points, appelés \\\"points d'aura\\\". Ces points servent comme mesure approximative de la confiance qui lui est accordée par la communauté. Diverses tâches de modération sont graduellement assignées aux utilisateurs en fonction de ces points."
+msgstr "Quand une question ou une réponse reçoit un vote positif, son auteur acquiert des points, appelés \"points d'aura\". Ces points servent comme mesure approximative de la confiance qui lui est accordée par la communauté. Diverses tâches de modération sont graduellement assignées aux utilisateurs en fonction de ces points."
 
 #: templates/faq_static.html:22
 #, python-format
