@@ -4966,7 +4966,7 @@ msgstr "Tapez votre question dans la barre de recherche pour voir si une questio
 
 #: templates/help.html:29
 msgid "Search has advanced capabilities:"
-msgstr "La recherche a des fonctionnalités avancées"
+msgstr "La recherche a des fonctionnalités avancées :"
 
 #: templates/help.html:31
 msgid "to search in title - enter [title: your text]"
