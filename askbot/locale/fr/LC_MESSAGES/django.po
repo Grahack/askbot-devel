@@ -328,7 +328,7 @@ msgstr "Montrer votre pays"
 
 #: forms.py:1401
 msgid "Show tag choices"
-msgstr "Montrer les étiquettes choisis"
+msgstr "Montrer les mots-clés choisis"
 
 #: forms.py:1406
 msgid "Date of birth"
@@ -696,7 +696,7 @@ msgstr "Commentateur: nombre de votes minimum"
 
 #: conf/badges.py:221
 msgid "Taxonomist: minimum tag use count"
-msgstr "Taxonomiste: Nombre minimal d'étiquette utilisée"
+msgstr "Taxonomiste: nombre minimal de mots-clés"
 
 #: conf/badges.py:230
 msgid "Enthusiast: minimum days"
@@ -858,7 +858,7 @@ msgstr "Avant d'activer ce réglage - veuillez compléter les réglages IMAP dan
 
 #: conf/email.py:275
 msgid "Replace space in emailed tags with dash"
-msgstr "Remplacer les espaces dans les étiquettes envoyés par des tirets"
+msgstr "Remplacer les espaces dans les mots-clés envoyés par des tirets"
 
 #: conf/email.py:277
 msgid ""
@@ -1162,7 +1162,7 @@ msgstr "Activer l'acceptation de la meilleur réponse"
 
 #: conf/forum_data_rules.py:231
 msgid "Are tags required?"
-msgstr "Est ce que les étiquettes sont requises?"
+msgstr "Est ce que les mots-clés sont obligatoires ?"
 
 #: conf/forum_data_rules.py:237
 msgid "category tree"
@@ -1174,7 +1174,7 @@ msgstr "Identifiant utilisateur"
 
 #: conf/forum_data_rules.py:245
 msgid "Source of tags"
-msgstr "Source des étiquettes"
+msgstr "Source des mots-clés"
 
 #: conf/forum_data_rules.py:256
 msgid "Mandatory tags"
@@ -1184,7 +1184,7 @@ msgstr "Mot-clés obligatoires"
 msgid ""
 "At least one of these tags will be required for any new or newly edited "
 "question. A mandatory tag may be wildcard, if the wildcard tags are active."
-msgstr "Au moins un de ces étiquettes sera nécessaire pour toute nouvelle question ou nouvellement édité. Une étiquette obligatoire peut être générique, si les étiquettes sont actives."
+msgstr "Au moins un de ces mots-clés sera nécessaire pour toute nouvelle question ou toute question nouvellement éditée. Un mot-clé obligatoire peut être générique, si les mots-clés génériques sont actifs."
 
 #: conf/forum_data_rules.py:271
 msgid "Force lowercase the tags"
@@ -1215,7 +1215,7 @@ msgstr "Étiquettes"
 msgid ""
 "Wildcard tags can be used to follow or ignore many tags at once, a valid "
 "wildcard tag has a single wildcard at the very end"
-msgstr "Étiquettes génériques peuvent être utilisés pour suivre ou ignorer nombreuses étiquettes à la fois, une étiquette générique valable n'a qu'un seul joker à la fin"
+msgstr "Les mots-clés génériques peuvent être utilisés pour suivre ou ignorer de nombreux mots-clés à la fois, un mot-clé générique valable n'a qu'un seul joker, à la fin."
 
 #: conf/forum_data_rules.py:315
 msgid "Use separate set for subscribed tags"
