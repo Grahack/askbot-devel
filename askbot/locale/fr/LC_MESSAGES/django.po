@@ -2247,7 +2247,7 @@ msgid ""
 "If checked, all forum functions will be shown to users, regardless of their "
 "reputation. However to use those functions, moderation rules, reputation and"
 " other limits will still apply."
-msgstr "Si cette case est cochée, toutes les fonctionnalités du forum seront afifchées aux utilisateurs, sans tenir compte de leur réputation. Cependant, pour utiliser ces fonctions, les règles de modération, le concept de réputation et les autres limites s'appliqueront toujours..."
+msgstr "Si cette case est cochée, toutes les fonctionnalités du forum seront affichées aux utilisateurs, sans tenir compte de leur réputation. Cependant, pour utiliser ces fonctions, les règles de modération, le concept de réputation et les autres limites s'appliqueront toujours."
 
 #: conf/skin_general_settings.py:137
 msgid "Select skin"
@@ -2353,7 +2353,7 @@ msgid ""
 "that the behavior may not be consistent across different browsers "
 "(<strong>to enable your custom code</strong>, check \"Add custom "
 "javascript\" option above)."
-msgstr "Saisissez ou collez un javascript que vous souhaiteriez exécuter sur votre site. Un lien vers ce script sera inséré en bas du HTML généré et sera servi à l'url \"&lt;url du forum&gt;/custom.js\". Veuillez garder à l'esprit que votre code javascript peut casser d'autres fonctionnalités du site et que son comportement peut être différent sur certains navigateurs (<strong>pour activer votre code personnalisé</strong>, cochez l'option \"Ajouter un javascript personnalisé\" ci-dessus)."
+msgstr "Saisissez ou collez du Javascript que vous souhaiteriez exécuter sur votre site. Un lien vers ce script sera inséré en bas du HTML généré et sera servi à l'url \"&lt;url du forum&gt;/custom.js\". Veuillez garder à l'esprit que votre code Javascript peut casser d'autres fonctionnalités du site et que son comportement peut être différent sur certains navigateurs (<strong>pour activer votre code personnalisé</strong>, cochez l'option \"Ajouter un Javascript personnalisé\" ci-dessus)."
 
 #: conf/skin_general_settings.py:299
 msgid "Skin media revision number"
@@ -5728,7 +5728,7 @@ msgstr "Ne peut pas être supprimer"
 #: templates/authopenid/signin.html:194
 #: templates/authopenid/widget_signin.html:197
 msgid "Still have trouble signing in?"
-msgstr "Il semblerait que vous ayez des problèmes pour vous authentifiez?"
+msgstr "Il semblerait que vous ayez des problèmes pour vous authentifier..."
 
 #: templates/authopenid/signin.html:199
 #: templates/authopenid/widget_signin.html:202
@@ -7337,7 +7337,7 @@ msgstr "À propos"
 
 #: templates/widgets/footer.html:40 templates/widgets/user_navigation.html:26
 msgid "help"
-msgstr "aide"
+msgstr "Aide"
 
 #: templates/widgets/footer.html:42
 msgid "privacy policy"
