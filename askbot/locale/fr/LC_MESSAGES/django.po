@@ -127,8 +127,8 @@ msgid ""
 msgid_plural ""
 "Tags are short keywords, with no spaces within. Up to %(max_tags)d tags can "
 "be used."
-msgstr[0] "Les tags sont des mot-clés courts ne contenant pas d'espace. %(max_tags)d tag peut être utilsé."
-msgstr[1] "Les tags sont des mot-clés courts ne contenant pas d'espace. Jusqu'à %(max_tags)d peuvent être utilsés"
+msgstr[0] "Les tags sont des mot-clés courts ne contenant pas d'espace. Un seul tag peut être utilisé."
+msgstr[1] "Les tags sont des mot-clés courts ne contenant pas d'espace. Jusqu'à %(max_tags)d peuvent être utilisés."
 
 #: forms.py:439
 #, python-format
