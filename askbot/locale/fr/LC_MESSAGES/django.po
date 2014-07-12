@@ -6581,8 +6581,8 @@ msgid "close"
 msgstr "fermer"
 
 #: templates/question/sidebar.html:8
-msgid "Question tools"
-msgstr "Utilititaires des questions"
+msgid "Question Tools"
+msgstr "Outils"
 
 #: templates/question/sidebar.html:11
 msgid "click to unfollow this question"
@@ -7901,7 +7901,7 @@ msgstr "profil de l'utilisateur"
 
 #: views/users.py:530
 msgid "user profile overview"
-msgstr "infOs générales sur le profil de l'utilisateur"
+msgstr "Aperçu du profil"
 
 #: views/users.py:650
 msgid "recent user activity"
