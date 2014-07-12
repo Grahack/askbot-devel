@@ -700,7 +700,7 @@ msgstr "Taxonomiste: nombre minimal de mots-clés"
 
 #: conf/badges.py:230
 msgid "Enthusiast: minimum days"
-msgstr "Entousiaste: nombre minimum de jour"
+msgstr "Entousiaste: nombre minimum de jours"
 
 #: conf/email.py:15
 msgid "Email and email alert settings"
