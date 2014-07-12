@@ -1323,7 +1323,7 @@ msgstr "Activer les groupes d'utilisateurs"
 
 #: conf/group_settings.py:41
 msgid "everyone"
-msgstr "tous les monde"
+msgstr "tout le monde"
 
 #: conf/group_settings.py:42
 msgid "Global user group name"
@@ -4946,7 +4946,7 @@ msgstr "Ce site est pour poser et répondre à des questions, par pour des discu
 msgid ""
 "We encourage everyone to use “question” space for asking and “answer” for "
 "answering."
-msgstr "Nous encourageons tous les mondes à utiliser l'espace \"question\" pour demander et \"réponse\" pour répondre"
+msgstr "Nous encourageons tout le monde à utiliser l'espace \"question\" pour demander et \"réponse\" pour répondre."
 
 #: templates/help.html:22
 msgid ""
