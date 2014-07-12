@@ -2108,7 +2108,7 @@ msgstr "URL permettant de faire des remarques"
 
 #: conf/site_settings.py:130
 msgid "If left empty, a simple internal feedback form will be used instead"
-msgstr "si laissé vide, un formulaire de retour simple sera utilisé à la place"
+msgstr "Si laissé vide, un formulaire de retour simple sera utilisé à la place"
 
 #: conf/skin_general_settings.py:15
 msgid "Skin, logos and HTML <head> parts"
@@ -6958,7 +6958,7 @@ msgstr "Mettre à jour"
 #: templates/user_profile/user_email_subscriptions.html:5
 #: templates/user_profile/user_tabs.html:44
 msgid "subscriptions"
-msgstr "Abonnements aux emails"
+msgstr "abonnements aux emails"
 
 #: templates/user_profile/user_email_subscriptions.html:8
 msgid "Email subscription settings"
@@ -7016,11 +7016,11 @@ msgstr "ajouter un groupe"
 
 #: templates/user_profile/user_info.html:77
 msgid "member since"
-msgstr "membre depuis"
+msgstr "Membre depuis"
 
 #: templates/user_profile/user_info.html:82
 msgid "last seen"
-msgstr "dernière connexion"
+msgstr "Dernière connexion"
 
 #: templates/user_profile/user_info.html:88
 msgid "website"
