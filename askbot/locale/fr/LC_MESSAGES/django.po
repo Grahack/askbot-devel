@@ -6343,7 +6343,7 @@ msgid "starting over"
 msgstr "repartant de zéro"
 
 #: templates/main_page/nothing_found.html:30
-msgid "Please always feel free to ask your question!"
+msgid "Please feel free to ask your question!"
 msgstr "N'hésitez pas à poser des questions !"
 
 #: templates/main_page/questions_loop.html:9
