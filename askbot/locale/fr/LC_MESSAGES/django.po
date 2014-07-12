@@ -4974,7 +4974,7 @@ msgstr "pour rechercher dans le titre - saisisser [title: votre texte]"
 
 #: templates/help.html:32
 msgid "to search by tags - enter [tag: sometag] or #sometag"
-msgstr "pour rechercher par étiquettes - saisisser [tag: étiquette] ou #etiquette"
+msgstr "pour rechercher par mots-clef - saisir [tag: mot-clef] ou #mot-clef"
 
 #: templates/help.html:33
 msgid "to search by user - enter [user: somename] or @somename or @\"some name\""
