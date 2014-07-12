@@ -5028,7 +5028,7 @@ msgstr "Vous pouvez @mentionner des utilisateurs partout dans le texte, pour sus
 
 #: templates/help.html:56
 msgid "Enjoy."
-msgstr "J'aime"
+msgstr "À vous de jouer !"
 
 #: templates/import_data.html:2 templates/import_data.html.py:4
 msgid "Import StackExchange data"
