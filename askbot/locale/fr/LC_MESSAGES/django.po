@@ -692,7 +692,7 @@ msgstr "Question stellaire: nombre minimum d'étoiles"
 
 #: conf/badges.py:212
 msgid "Commentator: minimum comments"
-msgstr "Commentateur: nombre de votes minimum"
+msgstr "Commentateur: nombre de commentaires minimum"
 
 #: conf/badges.py:221
 msgid "Taxonomist: minimum tag use count"
