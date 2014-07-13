@@ -3919,7 +3919,7 @@ msgstr "%(user)s a publié %(post_link)s."
 
 #: models/__init__.py:3190
 msgid "To reply, PLEASE WRITE ABOVE THIS LINE."
-msgstr "pour répondre, VEUILLEZ ÉCRIRE EN DESSUS DE CETTE LIGNE."
+msgstr "pour répondre, VEUILLEZ ÉCRIRE AU DESSUS DE CETTE LIGNE."
 
 #: models/__init__.py:3232
 #, python-format
