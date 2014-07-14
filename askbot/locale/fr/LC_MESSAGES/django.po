@@ -1241,7 +1241,7 @@ msgstr "Laisser les utilisateurs décider"
 
 #: conf/forum_data_rules.py:335
 msgid "Publicly show user tag selections"
-msgstr "montrer publiquement la sélection des étiquettes utilsiateurs"
+msgstr "Montrer publiquement la sélection des étiquettes utilisateurs"
 
 #: conf/forum_data_rules.py:344
 msgid "Enable separate tag search box on main page"
@@ -2396,7 +2396,7 @@ msgstr ""
 
 #: conf/social_sharing.py:52
 msgid "Check to enable sharing of questions on Facebook"
-msgstr "Cocher ceci pour activer le partage de la question sur FAcebook"
+msgstr "Cocher ceci pour activer le partage de la question sur Facebook"
 
 #: conf/social_sharing.py:61
 msgid "Check to enable sharing of questions on LinkedIn"
