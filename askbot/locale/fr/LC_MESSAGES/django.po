@@ -1245,7 +1245,7 @@ msgstr "Montrer publiquement la sélection des étiquettes utilisateurs"
 
 #: conf/forum_data_rules.py:344
 msgid "Enable separate tag search box on main page"
-msgstr ""
+msgstr "Activer la recherche par tag sur la page d’accueil"
 
 #: conf/forum_data_rules.py:354
 msgid "Default max number of comments to display under posts"
@@ -7540,7 +7540,7 @@ msgstr "Tags ignorés"
 
 #: templates/widgets/tag_selector.html:40
 msgid "Subscribed tags"
-msgstr ""
+msgstr "Mots-clés suivis"
 
 #: templates/widgets/tag_selector.html:59
 msgid "Show only questions from"
@@ -7558,7 +7558,7 @@ msgstr "Changer la fréquence des emails"
 msgid ""
 "Categorize your question using this tag selector or entering text in tag "
 "box."
-msgstr ""
+msgstr "Classer votre question en utilisant ce sélecteur de mot-clé ou la saisie de texte dans la boîte de mots-clés."
 
 #: templates/widgets/three_column_category_selector.html:7
 #: templates/widgets/three_column_category_selector.html:10
