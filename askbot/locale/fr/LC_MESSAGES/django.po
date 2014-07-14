@@ -1606,7 +1606,7 @@ msgstr "Note: pour réellement activer l'authentification %(provider)s quelques 
 
 #: conf/markup.py:15
 msgid "Markup in posts"
-msgstr "Marqueur dans le poste"
+msgstr "Syntaxe dans les publications"
 
 #: conf/markup.py:41
 msgid "Enable code-friendly Markdown"
@@ -1644,13 +1644,13 @@ msgstr "Note - <strong>MathJax n'est pas inclus dans askbot</strong> - vous deve
 
 #: conf/markup.py:91
 msgid "Enable autolinking with specific patterns"
-msgstr "Activer l'auto-lien avec des empreintes spécifiques"
+msgstr "Activer l'auto-lien avec des motifs spécifiques"
 
 #: conf/markup.py:93
 msgid ""
 "If you enable this feature, the application  will be able to detect patterns"
 " and auto link to URLs"
-msgstr "Si vous actionneé cette fonctionnalité, l'application   sera capable de détecter les empreintes et les auto-lien à convertir en adresse"
+msgstr "Si coché, l'application sera capable de détecter les motifs et rendre les liens actifs."
 
 #: conf/markup.py:106
 msgid "Regexes to detect the link patterns"
@@ -1663,7 +1663,7 @@ msgid ""
 "The numbers captured by the pattern in the parentheses will be transferred "
 "to the link url template. Please look up more information about regular "
 "expressions elsewhere."
-msgstr "Saisissez des expressions régulières valides pour les motifs, une par ligne. Par exemple, pour détecter un motif de bogue comme #123, utilisez l'expression régulière suivante : #bug(\\d+). Les nombres capturés entre les parenthèses du motif seront transférés dans le modèle d'url de lien. Veuillez vous renseigner ailleurs pour plus d'informations sur les expressions régulières."
+msgstr "Saisissez des expressions rationnelles valides pour les motifs, une par ligne. Par exemple, pour détecter un motif de bogue comme #bug123, utilisez l'expression régulière suivante : #bug(\\d+). Les nombres capturés entre les parenthèses du motif seront transférés dans le modèle d'url de lien. Veuillez vous renseigner ailleurs pour plus d'informations sur les expressions rationnelles."
 
 #: conf/markup.py:127
 msgid "URLs for autolinking"
@@ -1912,7 +1912,7 @@ msgstr "Barre latérale de la page principale"
 
 #: conf/sidebar_main.py:20 conf/sidebar_question.py:67
 msgid "Custom sidebar header"
-msgstr "Personnalisé la barre d'entête"
+msgstr "Personnaliser l'entête de la barre latérale"
 
 #: conf/sidebar_main.py:23 conf/sidebar_profile.py:23
 msgid ""
@@ -1961,7 +1961,7 @@ msgstr "Décocher si vous souhaitez masquer le nuage ou la liste des étiquette 
 
 #: conf/sidebar_main.py:94 conf/sidebar_question.py:132
 msgid "Custom sidebar footer"
-msgstr "Personnalisé la barre de pied"
+msgstr "Personnaliser le pied de la barre latérale"
 
 #: conf/sidebar_main.py:97 conf/sidebar_question.py:135
 msgid ""
