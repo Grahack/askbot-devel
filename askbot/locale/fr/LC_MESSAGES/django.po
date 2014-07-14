@@ -1266,7 +1266,7 @@ msgstr "Si non coché, il n'y a pas de limite de temps pour éditer un commentai
 
 #: conf/forum_data_rules.py:388
 msgid "Minutes allowed to edit a comment"
-msgstr "Nombre de minutes autoriser pour éditer un commentaire"
+msgstr "Nombre de minutes autorisé pour éditer un commentaire"
 
 #: conf/forum_data_rules.py:389
 msgid "To enable this setting, check the previous one"
@@ -1560,7 +1560,7 @@ msgstr "Montrer les alternatives de connexions aux founisseurs, via les boutons 
 
 #: conf/login_providers.py:31
 msgid "Always display local login form and hide \"Askbot\" button."
-msgstr "Toujours afficher le formualire de l'identification locale et masquer le bouton \"Askbot\""
+msgstr "Toujours afficher le formulaire de l'identification locale et masquer le bouton \"Askbot\""
 
 #: conf/login_providers.py:40
 msgid "Activate to allow login with self-hosted wordpress site"
@@ -1618,11 +1618,11 @@ msgid ""
 " - bold and italic text can still be marked up with asterisks. Note that "
 "\"MathJax support\" implicitly turns this feature on, because underscores "
 "are heavily used in LaTeX input."
-msgstr "Si cocher, le caractère souligné n'activera pas le formattage italique ou gras - le texte en gras et en italique sera entouré par des étoiles. Note pour le \"support MathJax\" qui active implicitement cette fonctionnalité, car le caractère souligné est utilisé dans les entrée LaTeX. "
+msgstr "Si coché, le caractère souligné n'activera pas le formatage italique ou gras - le texte en gras et en italique sera entouré par des étoiles. Note pour le \"support MathJax\" qui active implicitement cette fonctionnalité, car le caractère souligné est utilisé dans les entrée LaTeX. "
 
 #: conf/markup.py:58
 msgid "Mathjax support (rendering of LaTeX)"
-msgstr "upport Mathjax (rendu pour LaTex)"
+msgstr "Support Mathjax (rendu pour LaTex)"
 
 #: conf/markup.py:60
 #, python-format
@@ -3280,7 +3280,7 @@ msgstr "Si vous le voulez, merci d'ajouter, supprimer ou de re-valider vos méth
 
 #: deps/django_authopenid/views.py:726
 msgid "Please wait a second! Your account is recovered, but ..."
-msgstr "Veuillez attendre une second! votre compte est en récupération, mais ..."
+msgstr "Veuillez attendre une seconde ! Votre compte est en récupération, mais ..."
 
 #: deps/django_authopenid/views.py:728
 msgid "Sorry, this account recovery key has expired or is invalid"

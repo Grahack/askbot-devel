@@ -321,7 +321,7 @@ msgstr "êtes-vous sûr de vouloir supprimer ce commentaire?"
 
 #: media/js/post.js:2409
 msgid "please sign in or register to post comments"
-msgstr "veuillez vous identifier ou vous enregistrez pour poster un commentaire"
+msgstr "veuillez vous identifier ou vous enregistrer pour poster un commentaire"
 
 #: media/js/post.js:2560
 msgid "Please enter question title (>10 characters)"
