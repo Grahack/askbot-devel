@@ -5728,7 +5728,7 @@ msgstr "Ne peut pas être supprimer"
 #: templates/authopenid/signin.html:194
 #: templates/authopenid/widget_signin.html:197
 msgid "Still have trouble signing in?"
-msgstr "Il semblerait que vous ayez des problèmes pour vous authentifier..."
+msgstr "Vous avez peut-être des problèmes pour vous authentifier..."
 
 #: templates/authopenid/signin.html:199
 #: templates/authopenid/widget_signin.html:202
@@ -7629,7 +7629,7 @@ msgstr "Poster des questions, des réponses et des commentaires"
 
 #: templatetags/extra_filters_jinja.py:332
 msgid "no"
-msgstr "non"
+msgstr "0"
 
 #: utils/decorators.py:104 views/commands.py:146
 msgid "Oops, apologies - there was some error"
