@@ -3419,7 +3419,7 @@ msgstr ""
 #: mail/lamson_handlers.py:251
 #, python-format
 msgid "Re: Welcome to %(site_name)s"
-msgstr "Rep: Bienvenu à %(site_name)s"
+msgstr "Rep: Bienvenue à %(site_name)s"
 
 #: mail/lamson_handlers.py:258
 msgid "Please reply to the welcome email without editing it"
