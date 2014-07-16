@@ -602,7 +602,7 @@ msgstr "maintenant"
 
 #: media/js/utils.js:3361
 msgid "about a minute"
-msgstr "y'a une minute"
+msgstr "il y a une minute"
 
 #: media/js/utils.js:3362
 #, c-format
@@ -611,7 +611,7 @@ msgstr "%d minutes"
 
 #: media/js/utils.js:3363
 msgid "about an hour"
-msgstr "y'a une heure"
+msgstr "il y a une heure"
 
 #: media/js/utils.js:3364
 #, c-format
@@ -629,7 +629,7 @@ msgstr "%d jours"
 
 #: media/js/utils.js:3367
 msgid "about a month"
-msgstr "y'a un mois"
+msgstr "il y a un mois"
 
 #: media/js/utils.js:3368
 #, c-format
@@ -638,7 +638,7 @@ msgstr "%d mois"
 
 #: media/js/utils.js:3369
 msgid "about a year"
-msgstr "y'a un an"
+msgstr "il y a un an"
 
 #: media/js/utils.js:3370
 #, c-format
@@ -695,21 +695,21 @@ msgstr "Dec"
 
 #: media/js/utils.js:3491
 msgid "2 days ago"
-msgstr "Il y'a 2 jours"
+msgstr "Il y a 2 jours"
 
 #: media/js/utils.js:3498
 #, c-format
 msgid "%s hour ago"
 msgid_plural "%s hours ago"
-msgstr[0] "il y'a %s heure"
-msgstr[1] "il y'a %s heures"
+msgstr[0] "il y a %s heure"
+msgstr[1] "il y a %s heures"
 
 #: media/js/utils.js:3508
 #, c-format
 msgid "%s min ago"
 msgid_plural "%s mins ago"
-msgstr[0] "y'a %s minute"
-msgstr[1] "y'a %s minutes"
+msgstr[0] "il y a %s minute"
+msgstr[1] "il y a %s minutes"
 
 #: media/js/tinymce/plugins/askbot_attachment/editor_plugin.js:71
 msgid "Insert a file"
