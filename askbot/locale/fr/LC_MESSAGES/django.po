@@ -6501,7 +6501,7 @@ msgstr "Cette réponse a été sélectionnée comme correct"
 
 #: templates/question/answer_vote_buttons.html:10
 msgid "mark this answer as correct (click again to undo)"
-msgstr "marquer cette réponse comme correcte(recliquer encore pour l'annuler)"
+msgstr "marquer cette réponse comme correcte (recliquer pour annuler)"
 
 #: templates/question/closed_question_info.html:2
 #, python-format
