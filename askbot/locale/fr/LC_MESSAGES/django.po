@@ -3508,25 +3508,25 @@ msgstr "Désolé, seuls les modérateurs ou l'auteur de cette question   - %(use
 
 #: models/__init__.py:697
 msgid "Sorry, you cannot vote for your own posts"
-msgstr "Désolé, vous ne pouvez pas voter pour votre propre réponse"
+msgstr "Désolé, vous ne pouvez pas voter pour votre propre réponse."
 
 #: models/__init__.py:701
 msgid "Sorry your account appears to be blocked "
-msgstr "Désolé, votre compte semble être bloqué"
+msgstr "Désolé, votre compte semble être bloqué."
 
 #: models/__init__.py:706
 msgid "Sorry your account appears to be suspended "
-msgstr "Désolé, votre compte semble être suspendu"
+msgstr "Désolé, votre compte semble être suspendu."
 
 #: models/__init__.py:716
 #, python-format
 msgid ">%(points)s points required to upvote"
-msgstr ">%(points)s points sont requis pour pouvoir voter positivement"
+msgstr ">%(points)s points sont requis pour pouvoir voter positivement."
 
 #: models/__init__.py:722
 #, python-format
 msgid ">%(points)s points required to downvote"
-msgstr ">%(points)s points sont requis pour pouvoir voter négativement"
+msgstr ">%(points)s points sont requis pour pouvoir voter négativement."
 
 #: models/__init__.py:737
 msgid "Sorry, blocked users cannot upload files"
@@ -3601,14 +3601,14 @@ msgstr "Désolé, vous ne pouvez modifier que vos propres messages, car votre co
 #, python-format
 msgid ""
 "Sorry, to edit wiki posts, a minimum reputation of %(min_rep)s is required"
-msgstr "Désolé, pour modifier les messages du wiki, un minimum de %(min_rep)s points de réputation est requis"
+msgstr "Désolé, pour modifier les messages du wiki, un minimum de %(min_rep)s points de réputation est requis."
 
 #: models/__init__.py:933
 #, python-format
 msgid ""
 "Sorry, to edit other people's posts, a minimum reputation of %(min_rep)s is "
 "required"
-msgstr "Désolé, pour éditer les messages des autres utilisateurs, un minimum de %(min_rep)s points de réputation est requis"
+msgstr "Désolé, pour éditer les messages des autres utilisateurs, un minimum de %(min_rep)s points de réputation est requis."
 
 #: models/__init__.py:996
 msgid ""
@@ -3617,8 +3617,8 @@ msgid ""
 msgid_plural ""
 "Sorry, cannot delete your question since it has some upvoted answers posted "
 "by other users"
-msgstr[0] "Désolé, impossible de supprimer votre question car elle a obtenu un vote positif de la part d'un autre utilisateur"
-msgstr[1] "Désolé, impossible de supprimer votre question car elle a obtenu des votes positifs de la part d'autres utilisateurs"
+msgstr[0] "Désolé, impossible de supprimer votre question car elle a obtenu un vote positif de la part d'un autre utilisateur."
+msgstr[1] "Désolé, impossible de supprimer votre question car elle a obtenu des votes positifs de la part d'autres utilisateurs."
 
 #: models/__init__.py:1011
 msgid "Sorry, since your account is blocked you cannot delete posts"
