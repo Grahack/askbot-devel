@@ -1747,7 +1747,7 @@ msgstr "Réouvrir ses propres questions"
 
 #: conf/minimum_reputation.py:164
 msgid "Edit community wiki posts"
-msgstr "Modifier les messages sur le  \"wiki communautaire\""
+msgstr "Modifier les messages sur le \"wiki communautaire\""
 
 #: conf/minimum_reputation.py:173
 msgid "Edit posts authored by other people"
