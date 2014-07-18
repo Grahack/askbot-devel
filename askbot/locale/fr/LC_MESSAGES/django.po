@@ -901,7 +901,7 @@ msgstr "Clé de vérification de site Google"
 msgid ""
 "This key helps google index your site please obtain is at <a "
 "href=\"%(url)s?hl=%(lang)s\">google webmasters tools site</a>"
-msgstr "Cette clé aide google a indéxé votre site, veuillez l'obtenir à cette adresse <a href=\"%(url)s?hl=%(lang)s\">google webmasters tools site</a>"
+msgstr "Cette clé aide google a indexer votre site, veuillez l'obtenir à cette adresse <a href=\"%(url)s?hl=%(lang)s\">google webmasters tools site</a>"
 
 #: conf/external_keys.py:36
 msgid "Google Analytics key"
@@ -4483,7 +4483,7 @@ msgstr "Voir les mots-clés (tags)"
 
 #: templates/answer_edit.html:4 templates/answer_edit.html.py:10
 msgid "Edit answer"
-msgstr "Modifier la réopnse"
+msgstr "Modifier la réponse"
 
 #: templates/answer_edit.html:10 templates/question_edit.html:9
 #: templates/question_retag.html:5 templates/revisions.html:7
