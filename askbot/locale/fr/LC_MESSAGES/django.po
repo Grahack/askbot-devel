@@ -4471,7 +4471,7 @@ msgstr "L'erreur a été consigné dans les journaux d'erreurs système, et sera
 
 #: templates/500.html:9
 msgid "please report the error to the site administrators if you wish"
-msgstr "Si vous le souhaitez, vous pouvez signaler cette erreur aux administrateurs du site. Merci"
+msgstr "Si vous le souhaitez, vous pouvez signaler cette erreur aux administrateurs du site. Merci."
 
 #: templates/500.html:12
 msgid "see latest questions"
