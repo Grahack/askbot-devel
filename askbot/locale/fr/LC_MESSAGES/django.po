@@ -3600,7 +3600,7 @@ msgstr "Désolé, vous ne pouvez modifier que vos propres messages, car votre co
 #: models/__init__.py:926
 #, python-format
 msgid ""
-"Sorry, to edit wiki posts, a minimum reputation of %(min_rep)s is required"
+">%(min_rep)s points required to edit wiki posts"
 msgstr "Désolé, pour modifier les messages du wiki, un minimum de %(min_rep)s points de réputation est requis."
 
 #: models/__init__.py:933
@@ -4424,7 +4424,7 @@ msgid "This might have happened for the following reasons:"
 msgstr "Ceci a pu se produire pour les raisons suivantes :"
 
 #: templates/404.html:17
-msgid "this question or answer has been deleted;"
+msgid "This page has been deleted"
 msgstr "cette question ou cette réponse a été supprimée;"
 
 #: templates/404.html:18
