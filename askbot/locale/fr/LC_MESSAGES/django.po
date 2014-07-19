@@ -4336,9 +4336,9 @@ msgstr "nouvelle question"
 #: management/commands/send_unanswered_question_reminders.py:67
 #, python-format
 msgid "%(question_count)d %(unanswered_question)s about %(topics)s"
-msgid_plural "%(question_count)d %(unanswered_questions)s about %(topics)s"
+msgid_plural "%(question_count)d %(unanswered_question)s about %(topics)s"
 msgstr[0] "%(question_count)d %(unanswered_question)s concernant %(topics)s"
-msgstr[1] "%(question_count)d %(unanswered_questions)s concernant %(topics)s"
+msgstr[1] "%(question_count)d %(unanswered_question)s concernant %(topics)s"
 
 #: middleware/forum_mode.py:64
 #, python-format
@@ -4466,14 +4466,14 @@ msgid ""
 "Sorry, cannot %(delete_your_question)s since it has an %(upvoted_answer)s "
 "posted by someone else"
 msgid_plural ""
-"Sorry, cannot %(delete_your_question)s since it has some %(upvoted_answers)s "
+"Sorry, cannot %(delete_your_question)s since it has some %(upvoted_answer)s "
 "posted by other users"
 msgstr[0] ""
-"Désolé, impossible de %(delete_your_question)s car elle a obtenu une ""
+"Désolé, impossible de %(delete_your_question)s car elle a obtenu une "
 "%(upvoted_answer)s de la part d'un autre utilisateur."
 msgstr[1] ""
-"Désolé, impossible de %(delete_your_question)s car elle a obtenu des ""
-"%(upvoted_answers)s de la part d'autres utilisateurs."
+"Désolé, impossible de %(delete_your_question)s car elle a obtenu des "
+"%(upvoted_answer)s de la part d'autres utilisateurs."
 
 #: models/__init__.py:1034
 msgid "delete posts"
