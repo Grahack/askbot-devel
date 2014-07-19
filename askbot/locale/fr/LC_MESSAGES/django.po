@@ -30,6 +30,58 @@ msgstr ""
 "Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+#:
+msgid "ALL"
+msgstr "TOUT"
+
+#:
+msgid "FOLLOWED"
+msgstr "SUIVI"
+
+#:
+msgid "sign out"
+msgstr "Déconnexion"
+
+#:
+msgid "Contributors"
+msgstr "Contributeurs"
+
+#:
+msgid "Interesting tags"
+msgstr "Mots-clés intéressants"
+
+#:
+msgid "Ignored tags"
+msgstr "Mots-clés ignorés"
+
+#:
+msgid "Subscribed tags"
+msgstr "Mots-clés suivis"
+
+#:
+msgid "add"
+msgstr "ajouter"
+
+#:
+msgid "about"
+msgstr "À propos"
+
+#:
+msgid "faq"
+msgstr "FAQ"
+
+#:
+msgid "help"
+msgstr "Aide"
+
+#:
+msgid "privacy policy"
+msgstr "Vie privée"
+
+#:
+msgid "give feedback"
+msgstr "Faire une remarque"
+
 #: exceptions.py:13
 msgid "Sorry, but anonymous visitors cannot access this function"
 msgstr ""
@@ -6054,9 +6106,6 @@ msgstr "Conversion impossible car le message contient plus de %(max_chars)s "
 #~ "la page que vous avez tenté d'afficher est protégée, ou vous n'avez pas "
 #~ "un nombre de points suffisants pour la voir"
 
-#~ msgid "faq"
-#~ msgstr "FAQ"
-
 #~ msgid "if you believe this error 404 should not have occured, please"
 #~ msgstr ""
 #~ "si vous pensez que cette erreur 404 n'aurait pas du se produire, merci de"
@@ -7551,9 +7600,6 @@ msgstr "Conversion impossible car le message contient plus de %(max_chars)s "
 #~ msgid "Invite"
 #~ msgstr "Inviter"
 
-#~ msgid "add"
-#~ msgstr "Ajouter"
-
 #~ msgid "- or -"
 #~ msgstr "- ou -"
 
@@ -7946,9 +7992,6 @@ msgstr "Conversion impossible car le message contient plus de %(max_chars)s "
 #~ msgid "Add details"
 #~ msgstr "Ajouter des détails"
 
-#~ msgid "Contributors"
-#~ msgstr "Contributeurs"
-
 #~ msgid ", one of these is required"
 #~ msgstr ", l'un d'eux est nécessaire"
 
@@ -7963,18 +8006,6 @@ msgstr "Conversion impossible car le message contient plus de %(max_chars)s "
 
 #~ msgid "Content on this site is licensed under a %(license)s"
 #~ msgstr "Le contenu de ce site est sous licence %(license)s"
-
-#~ msgid "about"
-#~ msgstr "À propos"
-
-#~ msgid "help"
-#~ msgstr "Aide"
-
-#~ msgid "privacy policy"
-#~ msgstr "Respect de la vie privée"
-
-#~ msgid "give feedback"
-#~ msgstr "Faire une remarque"
 
 #~ msgid "Group info"
 #~ msgstr "Information du groupe"
@@ -8055,23 +8086,8 @@ msgstr "Conversion impossible car le message contient plus de %(max_chars)s "
 #~ msgstr[0] "vote"
 #~ msgstr[1] "votes"
 
-#~ msgid "ALL"
-#~ msgstr "TOUT"
-
 #~ msgid "see your followed questions"
 #~ msgstr "voir vos questions suivies"
-
-#~ msgid "FOLLOWED"
-#~ msgstr "SUIVI"
-
-#~ msgid "Interesting tags"
-#~ msgstr "Tags intéressants"
-
-#~ msgid "Ignored tags"
-#~ msgstr "Tags ignorés"
-
-#~ msgid "Subscribed tags"
-#~ msgstr "Mots-clés suivis"
 
 #~ msgid "Send me email alerts for"
 #~ msgstr "Envoyez-moi des alertes par email pour"
@@ -8090,9 +8106,6 @@ msgstr "Conversion impossible car le message contient plus de %(max_chars)s "
 
 #~ msgid "badges:"
 #~ msgstr "Badges :"
-
-#~ msgid "sign out"
-#~ msgstr "Déconnexion"
 
 #~ msgid "Hi there! Please sign in"
 #~ msgstr "Bonjour ! Connectez-vous !"
